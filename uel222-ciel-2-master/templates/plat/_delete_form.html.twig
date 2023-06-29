@@ -3,3 +3,7 @@
     <input type="hidden" name="_token" value="{{ csrf_token('delete' ~ plat.id) }}">
     <button class="btn">Delete</button>
 </form>
+
+{% block css %}
+    <link rel="stylesheet" href="{{ asset('category/asset/css/delete.css') }}">
+{% endblock %}
