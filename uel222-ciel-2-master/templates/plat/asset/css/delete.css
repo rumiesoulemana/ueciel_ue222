@@ -1,0 +1,14 @@
+.btn {
+    border-color: rgb(255, 255, 255);
+    border-width: 5px;
+    box-shadow: rgb(219, 219, 219) 0px 0px 0px 1px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    font-size: 10pt;
+    font-weight: 400;
+    height: 58px;
+    text-shadow: rgb(215, 45, 5) 0px 1px;
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}

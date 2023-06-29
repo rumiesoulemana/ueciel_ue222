@@ -1,0 +1,18 @@
+.category-details th {
+    background-color: grey;
+}
+
+.btn {
+    padding: 8px 12px;
+    border-radius: 4px;
+}
+
+.btn-primary {
+    background-color: blue;
+    color: white;
+}
+
+.btn-secondary {
+    background-color: green;
+    color: white;
+}

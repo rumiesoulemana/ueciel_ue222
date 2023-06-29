@@ -1,0 +1,7 @@
+body {
+    background-color: grey;
+}
+
+.btn:hover {
+    color: green;
+}
